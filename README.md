@@ -36,8 +36,8 @@ Corpo-DSL/
 
 ## Team (Group D)
 
-- **Sarah** — Director of Cross-Functional Harmony
-- **Dax** — VP of Velocity
-- **Okwesilieze** — SVP of Strategic Alignment
-- **Emmanuel** — Chief Momentum Officer
-- **Kai** — Head of Thought Leadership Enablement
+- **Sarah** 
+- **Dax**
+- **Okwesilieze** 
+- **Emmanuel**
+- **Kai**
